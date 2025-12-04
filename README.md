@@ -390,7 +390,8 @@ int main() {
 }
 ```
 # Output:
-<img width="1910" height="1082" alt="image" src="https://github.com/user-attachments/assets/7ce29a85-2580-413d-bc9a-20d8221c830e" />
+<img width="1915" height="1087" alt="image" src="https://github.com/user-attachments/assets/02546b10-339b-4323-afd8-1391c85fe2c3" />
+
 
 
 # Result: 
